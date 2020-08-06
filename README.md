@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kkeisuke&count_private=true&show_icons=true&hide=prs,issues,contribs&hide_border=true&theme=vue)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kkeisuke&layout=compact&hide_border=true&theme=vue)
 
 <!--
 **kkeisuke/kkeisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
